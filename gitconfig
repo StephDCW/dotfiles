@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = stephane.mouillat@live.fr
+	name = Stephane Mouillat
